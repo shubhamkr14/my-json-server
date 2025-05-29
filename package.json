@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "json-server": "json-server --watch db.json --port 4000"
+    "json-server": "json-server --watch db.json --port 4000 --routes routes.json"
   },
   "keywords": [],
   "author": "",
