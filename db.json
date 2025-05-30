@@ -74,7 +74,7 @@
       }
     }
   ],
- {
+ 
   "donations": [
     {
       "id": 1,
@@ -96,8 +96,7 @@
       "amount": 15.00,
       "description": "Contribution for healthy snacks"
     }
-  ]
-},
+  ],
    "reviews": [
     {
       "id": 1,
