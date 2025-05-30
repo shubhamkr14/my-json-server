@@ -173,5 +173,42 @@
       "deadline": "2025-05-14T16:17",
       "id": "Le7Mv_T"
     }
+  ],
+   "users": [
+    {
+      "id": "u1",
+      "username": "john_doe",
+      "email": "john@example.com"
+    }
+  ],
+  "meals": [
+    {
+      "id": "m1",
+      "name": "Protein Shake",
+      "description": "Whey protein + milk",
+      "recipe": "https://youtube.com/proteinshake",
+      "time": 5,
+      "category": "Drinks",
+      "author": "u1"
+    }
+  ],
+  "routines": [
+    {
+      "id": "r1",
+      "name": "Morning Cardio",
+      "link": "https://youtube.com/cardio",
+      "workout_type": "Cardio",
+      "body_part": "Whole",
+      "author": "u1"
+    }
+  ],
+  "entries": [
+    {
+      "id": "e1",
+      "date": "2024-06-01",
+      "meals": ["m1"],
+      "routines": ["r1"],
+      "author": "u1"
+    }
   ]
 }
