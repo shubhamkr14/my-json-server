@@ -74,45 +74,30 @@
       }
     }
   ],
-  "reviews01": [
+ {
+  "donations": [
     {
       "id": 1,
-      "rating": 3,
-      "comment": "Review 1 for product id 1",
-      "productId": 1
+      "amount": 50.00,
+      "description": "For gym equipment maintenance"
     },
     {
       "id": 2,
-      "rating": 4,
-      "comment": "Review 2 for product id 1",
-      "productId": 1
+      "amount": 25.50,
+      "description": "Support for community workout classes"
     },
     {
       "id": 3,
-      "rating": 4,
-      "comment": "Review 3 for product id 1",
-      "productId": 1
+      "amount": 100.00,
+      "description": "Towards new fitness programs"
     },
     {
       "id": 4,
-      "rating": 5,
-      "comment": "Review 1 for product id 2",
-      "productId": 2
-    },
-    {
-      "id": 1,
-      "rating": 3,
-      "comment": "Review 1 for product id 3",
-      "productId": 3
-    },
-    {
-      "ied": 5,
-      "rating": 5,
-      "comment": "Review 1 for product id 5",
-      "productId": 5,
-      "id": 5
+      "amount": 15.00,
+      "description": "Contribution for healthy snacks"
     }
-  ],
+  ]
+},
    "reviews": [
     {
       "id": 1,
