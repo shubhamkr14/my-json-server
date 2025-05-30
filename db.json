@@ -210,5 +210,45 @@
       "routines": ["r1"],
       "author": "u1"
     }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Bennett",
+      "specialty": "Cardiology"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jason Kim",
+      "specialty": "Neurology"
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "age": "45",
+      "gender": "Male"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "patientName": "Alice Smith",
+      "doctorName": "Dr. Sarah Bennett",
+      "date": "2024-06-01"
+    },
+    {
+      "id": 2,
+      "patientName": "Bob Johnson",
+      "doctorName": "Dr. Jason Kim",
+      "date": "2024-06-03"
+    }
   ]
 }
